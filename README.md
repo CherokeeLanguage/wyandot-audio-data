@@ -8,6 +8,6 @@ Wyandot essentially died out as a spoken language nearly a century ago, though t
 
 The Wyandot language is used in the television series Barkskins. 
 
-This repository contains various audio sources for the language. Mainly for use with computational linguistics such as TTS and ASR, as well as being a resource for the creation audio teach exercises.
+This repository contains various audio sources for the language. Mainly for use with computational linguistics such as TTS and ASR, as well as being a resource for the creation of audio teaching exercises.
 
 
