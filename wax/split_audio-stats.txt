@@ -1,0 +1,9 @@
+
+Work directory: beginning-cherokee
+
+Total splits: 2,861
+
+Min duration: 0.26 seconds
+Max duration: 9.74 seconds
+Total duration: 4,497.70 seconds
+

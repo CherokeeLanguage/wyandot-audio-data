@@ -1,0 +1,9 @@
+
+Work directory: craig
+
+Total splits: 95
+
+Min duration: 0.52 seconds
+Max duration: 4.00 seconds
+Total duration: 112.55 seconds
+
