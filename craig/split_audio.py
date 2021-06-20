@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S conda run -n cherokee-audio-data python
 import pydub.effects
 from pydub import AudioSegment
 from os import walk
