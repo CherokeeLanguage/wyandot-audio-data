@@ -1,9 +1,9 @@
 
-Work directory: beginning-cherokee
+Work directory: wax
 
-Total splits: 2,861
+Total splits: 213
 
-Min duration: 0.26 seconds
-Max duration: 9.74 seconds
-Total duration: 4,497.70 seconds
+Min duration: 0.25 seconds
+Max duration: 9.85 seconds
+Total duration: 350.90 seconds
 
