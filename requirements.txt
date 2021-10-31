@@ -1,2 +1,0 @@
-denoiser~=0.1.4
-pydub~=0.25.1
