@@ -1,8 +1,10 @@
 title: Add .opencode/ ignore pattern to .gitignore
-status: open
+status: closed
 labels:
 - needs-approval
 body: ''
 created_at: '2026-10-24T03:30:57+00:00'
-updated_at: '2026-10-24T03:30:58+00:00'
+updated_at: '2026-10-24T03:53:10+00:00'
 github_url: https://github.com/CherokeeLanguage/wyandot-audio-data/issues/1
+closed_at: '2026-10-24T03:53:10+00:00'
+close_reason: completed
